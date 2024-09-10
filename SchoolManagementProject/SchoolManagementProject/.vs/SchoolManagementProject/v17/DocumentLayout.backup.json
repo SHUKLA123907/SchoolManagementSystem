@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Jyoti\\SchoolManagementProject\\SchoolManagementProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F56E0B09-327A-4C81-99BC-CB2E1BD94906}|SchoolManagementProject.csproj|d:\\jyoti\\schoolmanagementproject\\schoolmanagementproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F56E0B09-327A-4C81-99BC-CB2E1BD94906}|SchoolManagementProject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F56E0B09-327A-4C81-99BC-CB2E1BD94906}|SchoolManagementProject.csproj|d:\\jyoti\\schoolmanagementproject\\schoolmanagementproject\\controllers\\issuedbookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F56E0B09-327A-4C81-99BC-CB2E1BD94906}|SchoolManagementProject.csproj|solutionrelative:controllers\\issuedbookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F56E0B09-327A-4C81-99BC-CB2E1BD94906}|SchoolManagementProject.csproj|d:\\jyoti\\schoolmanagementproject\\schoolmanagementproject\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F56E0B09-327A-4C81-99BC-CB2E1BD94906}|SchoolManagementProject.csproj|solutionrelative:controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F56E0B09-327A-4C81-99BC-CB2E1BD94906}|SchoolManagementProject.csproj|d:\\jyoti\\schoolmanagementproject\\schoolmanagementproject\\repo\\issuedbookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F56E0B09-327A-4C81-99BC-CB2E1BD94906}|SchoolManagementProject.csproj|solutionrelative:repo\\issuedbookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F56E0B09-327A-4C81-99BC-CB2E1BD94906}|SchoolManagementProject.csproj|d:\\jyoti\\schoolmanagementproject\\schoolmanagementproject\\models\\issuedbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F56E0B09-327A-4C81-99BC-CB2E1BD94906}|SchoolManagementProject.csproj|solutionrelative:models\\issuedbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Jyoti\\SchoolManagementProject\\SchoolManagementProject\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Jyoti\\SchoolManagementProject\\SchoolManagementProject\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T18:49:43.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IssuedBook.cs",
+              "DocumentMoniker": "D:\\Jyoti\\SchoolManagementProject\\SchoolManagementProject\\Models\\IssuedBook.cs",
+              "RelativeDocumentMoniker": "Models\\IssuedBook.cs",
+              "ToolTip": "D:\\Jyoti\\SchoolManagementProject\\SchoolManagementProject\\Models\\IssuedBook.cs",
+              "RelativeToolTip": "Models\\IssuedBook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T18:25:41.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IssuedBookService.cs",
+              "DocumentMoniker": "D:\\Jyoti\\SchoolManagementProject\\SchoolManagementProject\\Repo\\IssuedBookService.cs",
+              "RelativeDocumentMoniker": "Repo\\IssuedBookService.cs",
+              "ToolTip": "D:\\Jyoti\\SchoolManagementProject\\SchoolManagementProject\\Repo\\IssuedBookService.cs",
+              "RelativeToolTip": "Repo\\IssuedBookService.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T18:21:40.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IssuedBookController.cs",
+              "DocumentMoniker": "D:\\Jyoti\\SchoolManagementProject\\SchoolManagementProject\\Controllers\\IssuedBookController.cs",
+              "RelativeDocumentMoniker": "Controllers\\IssuedBookController.cs",
+              "ToolTip": "D:\\Jyoti\\SchoolManagementProject\\SchoolManagementProject\\Controllers\\IssuedBookController.cs",
+              "RelativeToolTip": "Controllers\\IssuedBookController.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAYwDsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T18:17:29.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "D:\\Jyoti\\SchoolManagementProject\\SchoolManagementProject\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BookController.cs",
+              "ToolTip": "D:\\Jyoti\\SchoolManagementProject\\SchoolManagementProject\\Controllers\\BookController.cs",
+              "RelativeToolTip": "Controllers\\BookController.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAowDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T18:17:20.217Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

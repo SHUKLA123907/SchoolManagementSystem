@@ -1,0 +1,45 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model List<Book>
+
+
+<a asp-controller="Book" asp-action="AddBook"><input type="submit" value="Add Book" class="btn btn-info" /></a>
+
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">Title</th>
+            <th scope="col">Author</th>
+            <th scope="col">ISBN</th>
+            <th scope="col">PublishedDate</th>
+            <th scope="col">AvailableCopies</th>
+            <th scope="col">Action</th>
+        </tr>
+    </thead>
+    <tbody>
+
+        @foreach (var d in Model)
+        {
+            <tr>
+                <th scope="row">@d.Title</th>
+                <td>@d.Author</td>
+                <td>@d.ISBN</td>
+                <td>@d.PublishedDate</td>
+                <td>@d.AvailableCopies</td>
+                <td>
+                    <a asp-action="DeleteBook" asp-controller="Book" asp-route-id="@d.BookId"><input type="button" value="Delete" class="btn btn-danger" /></a>
+                    <a asp-action="UpdateBook" asp-controller="Book" asp-route-id="@d.BookId"><input type="button" value="Edit" class="btn btn-success" /></a>
+                </td>
+
+            </tr>
+        }
+
+
+
+    </tbody>
+</table>
